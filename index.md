@@ -1,6 +1,6 @@
+<input type="button" value="Show Button" onclick="showImage();"/>
+    <img id="loadingImage" src="https://thumbs.dreamstime.com/z/cute-yellow-bulldozer-vector-cartoon-illustration-no-mesh-vector-eps-funny-bulldozer-cartoon-vector-helmet-bricks-110500831.jpg" style="visibility:hidden"/>
+    
 <audio src="https://r3---sn-uxaxpu5ap5-5vpe.googlevideo.com/videoplayback?expire=1587573767&ei=px-gXuG3B8WC7gPs3pKYAQ&ip=87.6.70.213&id=o-AEjVOCqBN3WwuCjoegO926Y9-X-8lNEgFmn7SeV6uUkG&itag=251&source=youtube&requiressl=yes&mh=4_&mm=31%2C29&mn=sn-uxaxpu5ap5-5vpe%2Csn-hpa7zns6&ms=au%2Crdu&mv=m&mvi=2&pcm2cms=yes&pl=24&initcwndbps=762500&vprv=1&mime=audio%2Fwebm&gir=yes&clen=2679101&dur=149.101&lmt=1577547249224388&mt=1587552039&fvip=5&keepalive=yes&c=WEB&txp=5531432&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cgir%2Cclen%2Cdur%2Clmt&lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&lsig=ALrAebAwRAIgU3fTA_CKJLSnAgLRl30Okft_Ke30xuf0Kza2X80N_IICIExJguVupQ8QM5sRXjekrwI1ejSQpnox5chT5PqC6Mfk&alr=yes&sig=AJpPlLswRgIhAISVdyF0jI7ssjYNG8laSGYmTsYg_4epKwNlxkER-o7pAiEA1NQtlVxYwq4duw5faKlAcTPzN0uk2c4K04dCddQszds%3D&cpn=0SYJx9whMdvzL_22&cver=2.20200421.04.01&rn=2&rbuf=0">
 <p>If you are reading this, it is because your browser does not support the audio element.     </p>
 </audio>
-<input type="button" value="Show Button" onclick="showImage();"/>
-    <img id="loadingImage" src="https://thumbs.dreamstime.com/z/cute-yellow-bulldozer-vector-cartoon-illustration-no-mesh-vector-eps-funny-bulldozer-cartoon-vector-helmet-bricks-110500831.jpg" style="visibility:hidden"/>
-
